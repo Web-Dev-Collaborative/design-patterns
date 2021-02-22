@@ -5,7 +5,7 @@ Created On: 16th October 2018
 
 import inspect, sys
 import matplotlib.pyplot as plt
-from pathlib import Path, PureWindowsPath
+from pathlib import Path
 from abc import ABCMeta, abstractmethod
 from enum import IntEnum
 
@@ -19,7 +19,7 @@ class PlanetEnum(IntEnum):
 	MERCURY = 1
 	VENUS = 2
     EARTH = 3
-    MARS =4
+    MARS = 4
     JUPITER = 5
     SATURN = 6
     URANUS = 7

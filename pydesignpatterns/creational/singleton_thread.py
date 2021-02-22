@@ -6,7 +6,7 @@ Created On: 11th July 2018
 import inspect, sys
 import matplotlib.pyplot as plt
 import _thread as thread
-from pathlib import Path, PureWindowsPath
+from pathlib import Path
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 from utility import class_diagram, output_image

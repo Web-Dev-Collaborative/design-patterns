@@ -5,7 +5,7 @@ Created On: 20th September 2018
 
 import inspect, sys, copy
 import matplotlib.pyplot as plt
-from pathlib import Path, PureWindowsPath
+from pathlib import Path
 from abc import ABCMeta, abstractmethod
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
