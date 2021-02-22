@@ -1,10 +1,9 @@
-
 Pydesignpatterns
 ================
 
 ## Python module to learn all design patterns on the go!  
 
-#### Inspired by [Omkar Pathak's](https://github.com/OmkarPathak/) [pygorithm](https://github.com/OmkarPathak/pygorithm)
+- Reworking on each pattern after 2 years, Lets start again, one at a time! :grin:
 
 ### Todo
 
@@ -43,4 +42,8 @@ Pydesignpatterns
   
 
 - [ ] Structural Design Patterns  
-- [ ] Concurrency Design Patterns  
+- [ ] Concurrency Design Patterns 
+
+
+#### Inspired by [Omkar Pathak's](https://github.com/OmkarPathak/) [pygorithm](https://github.com/OmkarPathak/pygorithm)
+
